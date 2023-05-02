@@ -1,3 +1,3 @@
-# dataScience_oilPriceForecasting
+# dataScience_oilPriceForecast
 
 "Predicting oil prices is an important task for energy market analysts, investors, and policymakers. In this project, we aim to predict the future trends of Brent and WTI oil prices using historical daily price data. To improve the accuracy of our predictions, we will explore different statistical methods, consider additional factors such as weather patterns and technological advancements, use more recent data, analyze regional differences, and validate our predictions against actual data. By providing more accurate predictions, we hope to help stakeholders in the energy industry make informed decisions and minimize risks associated with oil price volatility."
